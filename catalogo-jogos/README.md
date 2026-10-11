@@ -6,13 +6,9 @@ O projeto permite pesquisar jogos, visualizar detalhes completos e salvar jogos 
 
 ## 🌐 Projeto online
 
-🔗 Em breve
+[**Acessar o GameHub**](https://catalogo-jogos-catalogo-jogos-one.vercel.app/)
 
 ## 📸 Preview
-
-Adicione aqui uma imagem do projeto.
-
-Exemplo:
 
 ![Prévia do GameHub](./catalogo-jogos/public/preview.png)
 
@@ -20,9 +16,9 @@ Exemplo:
 
 - Buscar jogos por nome
 - Listar jogos populares
-- Visualizar imagem, nota, lançamento, gêneros e plataformas
+- Visualizar imagens, notas, lançamentos, gêneros e plataformas
 - Página de detalhes de cada jogo
-- Exibir desenvolvedora e nota do Metacritic
+- Exibir desenvolvedoras e notas do Metacritic
 - Favoritar jogos
 - Salvar favoritos com LocalStorage
 - Página exclusiva de jogos favoritos
@@ -46,8 +42,8 @@ Os dados dos jogos são obtidos através da **RAWG Video Games Database API**.
 ## 📂 Estrutura do projeto
 
 ```text
-src
-├── pages
+src/
+├── pages/
 │   ├── Home.jsx
 │   ├── GameDetails.jsx
 │   └── Favorites.jsx
@@ -55,3 +51,4 @@ src
 ├── App.css
 ├── index.css
 └── main.jsx
+```
