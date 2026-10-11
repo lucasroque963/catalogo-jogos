@@ -14,7 +14,7 @@ Adicione aqui uma imagem do projeto.
 
 Exemplo:
 
-![Preview do GameHub](public/preview.png)
+![Prévia do GameHub](./catalogo-jogos/public/preview.png)
 
 ## 🚀 Funcionalidades
 
